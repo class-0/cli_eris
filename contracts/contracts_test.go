@@ -44,7 +44,7 @@ func TestMain(m *testing.M) {
 func TestContractsTest(t *testing.T) {
 
 	// TODO: test more dapp types once we have
-	// canonical dapps + eth throwaway chains
+	// canonical dapps + eth throwaway chain
 }
 
 func TestContractsDeploy(t *testing.T) {
